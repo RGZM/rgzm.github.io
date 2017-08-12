@@ -1,7 +1,3 @@
---
-layout: default
----
-
 # My awesome org
 
 * Project1
