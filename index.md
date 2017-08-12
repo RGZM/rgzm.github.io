@@ -1,10 +1,5 @@
----
-title: This is my title
-layout: post
----
+# RGZM projects
 
-# My awesome org
-
-* Project1
-* Project2
-* Project3
+* samian research
+* samian databases
+* templates
