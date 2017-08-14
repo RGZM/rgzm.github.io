@@ -12,3 +12,7 @@ Darüber hinaus ermöglicht besonderes Know-How in der Wissenschaftlichen IT den
 # Repos für Templates
 
 * [Templates](https://github.com/search?q=topic%3Atemplate+org%3ARGZM&type=Repositories)
+
+# Best Practices
+
+* [JAVA Konfigurationen](https://gist.github.com/florianthiery/0f8c0c015555939c96eb13428bbf1cd4)
