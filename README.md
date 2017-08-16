@@ -18,4 +18,4 @@ Darüber hinaus ermöglicht besonderes Know-How in der Wissenschaftlichen IT den
 * [JAVA Konfigurationen](https://gist.github.com/0f8c0c015555939c96eb13428bbf1cd4)
 * [Maven Dependencies](https://gist.github.com/6fccbc97389aadbb7c2dbe55fa66e4d4)
 
-{% include main.js %}
+{% include footer.htm %}
