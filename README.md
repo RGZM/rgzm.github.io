@@ -1,3 +1,4 @@
+{% include main.js %}
 # Der Kompetenzbereich Wissenschaftliche IT am RGZM
 
 Forschungsbasierte IT gibt es seit den 1990er Jahren am RGZM. Neben EU-geförderten internetbasierten Forschungsdatenbanken konnten raumbezogenen Forschungsdaten generiert und speziellen Forschungstools entwickelt werden. Zur Bündelung der vielfältigen Aktivitäten wurde im Herbst 2014 ein eigener Kompetenzbereich Wissenschaftliche IT eingerichtet.
