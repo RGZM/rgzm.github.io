@@ -1,4 +1,4 @@
-[![](https://github.com/RGZM/rgzm.github.io/raw/master/_includes/RGZM-Logo.png)
+![0](https://github.com/RGZM/rgzm.github.io/raw/master/_includes/RGZM-Logo.png)
 
 # Der Kompetenzbereich Wissenschaftliche IT am RGZM
 
