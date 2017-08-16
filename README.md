@@ -19,5 +19,6 @@ Darüber hinaus ermöglicht besonderes Know-How in der Wissenschaftlichen IT den
 
 * [JAVA Konfigurationen](https://gist.github.com/0f8c0c015555939c96eb13428bbf1cd4)
 * [Maven Dependencies](https://gist.github.com/6fccbc97389aadbb7c2dbe55fa66e4d4)
+* [Setup for Jersey 1.19.1 RESTful Interface in Netbeans](https://gist.github.com/58bba19a2c5824251cb5f81c302a9ae0)
 
 {% include footer.htm %}
